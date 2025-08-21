@@ -1,5 +1,5 @@
 # Machine Learning Trading Project
-**Stage:** Problem Framing & Scoping (Stage 01)
+**Stage:** Problem Framing & Scoping
 
 ## Problem Statement
 This project explores the application of machine learning techniques to financial market data.  
